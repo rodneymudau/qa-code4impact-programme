@@ -41,8 +41,6 @@ qa-cohort-programme/
 - Slide decks: `WeekN_DayN_Facilitator_Slides.pptx`
 
 ## Document Types
-
-- **Facilitator Guide** — scripted, minute-by-minute session plan. Yellow "SAY THIS" sections are close to verbatim; blue "DO" sections are stage directions, not to be read aloud.
 - **Facilitator Slides** — the deck to project live alongside the facilitator guide.
 - **Student Guide** — the learner-facing reference: definitions, examples, and (from Week 2 onward) an Interview Prep section tied to that week's content.
 
