@@ -10,8 +10,8 @@ The course is being built incrementally. This table tracks what currently exists
 
 | Week | Day | Topic | Facilitator Guide | Slides | Student Guide | Homework |
 |------|-----|-------|:---:|:---:|:---:|:---:|
-| 1 | 1 | Tester mindset, SDLC/STLC | — | — | — | — |
-| 1 | 2 | Exploratory testing lab (Sauce Demo) | ✅ | — | — | — |
+| 1 | 1 | Tester mindset, SDLC/STLC | ✅ | ✅ | ✅ | ✅ |
+| 1 | 2 | Exploratory testing lab (Sauce Demo) | ✅ | ✅ | ✅ | ✅ |
 | 2 | 1 | Types of Testing (Functional vs Non-Functional, Black Box vs White Box) | ✅ | ✅ | ✅ | ✅ |
 | 2 | 2 | Writing Your First Test Case (BRD → Feature → User Story → Test Case) | ✅ | ✅ | ✅ | ✅ |
 | 3 | 1 | Bug Reporting — Writing Clear, Professional Bug Reports | ✅ | ✅ | ✅ | ✅ |
