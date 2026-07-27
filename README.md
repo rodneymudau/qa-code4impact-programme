@@ -6,13 +6,34 @@ This repo is the single home for facilitator guides, student guides, slide decks
 
 ## Status
 
-The course is being built incrementally. This table tracks what currently exists — update it as new weeks are added.
+The course is being built incrementally. This table tracks what currently exists — update it as new weeks are added. Topics for Weeks 4–12 are provisional (best guess from "Looking Ahead" notes and the general programme roadmap) until a facilitator guide confirms them — see `docs/course-structure.md`.
 
-| Week | Day | Topic | Facilitator Guide | Slides | Student Guide |
-|------|-----|-------|:---:|:---:|:---:|
-| 1 | 2 | Exploratory testing lab (Sauce Demo) | ✅ | — | — |
-| 2 | 1 | Types of Testing (Functional vs Non-Functional, Black Box vs White Box) | ✅ | ✅ | ✅ (combined, see below) |
-| 2 | 2 | Writing Your First Test Case | ✅ | — | ✅ (combined, see below) |
+| Week | Day | Topic | Facilitator Guide | Slides | Student Guide | Homework |
+|------|-----|-------|:---:|:---:|:---:|:---:|
+| 1 | 1 | Tester mindset, SDLC/STLC | — | — | — | — |
+| 1 | 2 | Exploratory testing lab (Sauce Demo) | ✅ | — | — | — |
+| 2 | 1 | Types of Testing (Functional vs Non-Functional, Black Box vs White Box) | ✅ | ✅ | ✅ | ✅ |
+| 2 | 2 | Writing Your First Test Case (BRD → Feature → User Story → Test Case) | ✅ | ✅ | ✅ | ✅ |
+| 3 | 1 | Bug Reporting — Writing Clear, Professional Bug Reports | ✅ | ✅ | ✅ | ✅ |
+| 3 | 2 | The Defect Life Cycle | ✅ | ✅ | ✅ | ✅ |
+| 4 | 1 | Test Case Design Techniques (e.g. equivalence partitioning) | — | — | — | — |
+| 4 | 2 | Test Case Design Techniques (e.g. boundary value analysis) | — | — | — | — |
+| 5 | 1 | Test Plans in depth | — | — | — | — |
+| 5 | 2 | Test Plans in depth (cont.) | — | — | — | — |
+| 6 | 1 | TBC — transition toward automation tooling begins around here | — | — | — | — |
+| 6 | 2 | TBC | — | — | — | — |
+| 7 | 1 | TBC | — | — | — | — |
+| 7 | 2 | TBC | — | — | — | — |
+| 8 | 1 | TBC | — | — | — | — |
+| 8 | 2 | TBC | — | — | — | — |
+| 9 | 1 | TBC | — | — | — | — |
+| 9 | 2 | TBC | — | — | — | — |
+| 10 | 1 | TBC | — | — | — | — |
+| 10 | 2 | TBC | — | — | — | — |
+| 11 | 1 | TBC | — | — | — | — |
+| 11 | 2 | TBC | — | — | — | — |
+| 12 | 1 | TBC | — | — | — | — |
+| 12 | 2 | TBC | — | — | — | — |
 
 Week 1, Day 1 predates this repo and isn't captured yet — add it under `week-01/day-1/` when available.
 
