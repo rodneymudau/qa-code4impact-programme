@@ -16,11 +16,11 @@ The course is being built incrementally. This table tracks what currently exists
 | 2 | 2 | Writing Your First Test Case (BRD → Feature → User Story → Test Case) | ✅ | ✅ | ✅ | ✅ |
 | 3 | 1 | Bug Reporting — Writing Clear, Professional Bug Reports | ✅ | ✅ | ✅ | ✅ |
 | 3 | 2 | The Defect Life Cycle | - | - | - | - |
-| 4 | 1 | Test Case Design Techniques (e.g. equivalence partitioning) | — | — | — | — |
+| 4 | 1 | Test Execution & Test Closure | — | — | — | — |
 | 4 | 2 | Test Case Design Techniques (e.g. boundary value analysis) | — | — | — | — |
 | 5 | 1 | Test Plans in depth | — | — | — | — |
-| 5 | 2 | Test Plans in depth (cont.) | — | — | — | — |
-| 6 | 1 | TBC — transition toward automation tooling begins around here | — | — | — | — |
+| 5 | 2 | transition toward automation tooling begins around here | — | — | — | — |
+| 6 | 1 | TBC | — | — | — | — |
 | 6 | 2 | TBC | — | — | — | — |
 | 7 | 1 | TBC | — | — | — | — |
 | 7 | 2 | TBC | — | — | — | — |
