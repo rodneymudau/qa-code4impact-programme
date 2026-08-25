@@ -29,7 +29,7 @@ modify a variable" exercises in both days' homework, all point at this file.
 
 ## Requirements
 
-- Java Development Kit (JDK) 17 or later — Eclipse Temurin recommended
+- Java Development Kit (JDK) 25 — the latest Java LTS release — Eclipse Temurin recommended
   (adoptium.net)
 - Google Chrome installed — WebDriverManager downloads the matching
   ChromeDriver automatically, so there's no manual driver setup
